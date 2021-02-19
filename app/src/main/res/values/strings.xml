@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice_Roll</string>
+    <string name="btn_higher">Higher</string>
+    <string name="btn_lower">Lower</string>
+    <string name="human">Player</string>
+    <string name="computer">Computer</string>
+    <string name="win">USER WIN</string>
+    <string name="loss">COMPUTER WIN</string>
+    <string name="tie">ITS A TIE</string>
+</resources>
